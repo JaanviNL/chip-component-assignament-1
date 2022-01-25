@@ -1,0 +1,36 @@
+
+
+
+.main-container
+{
+    width: 400px;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 20px;
+
+}
+.chip
+{
+    padding:5px 8px;
+    margin:5px;
+    border-radius: 20px;
+    background-color: #e2e8f0;
+    display: flex;
+    align-items: center;
+    
+}
+
+.img{
+    width: 10pxpx;
+    height: 10px;
+    margin-bottom: auto;
+}
+.closebtn
+{
+    cursor: pointer;
+    padding: 4px;
+    font-size: large;
+    border-radius: 10%;
+  
+} 
